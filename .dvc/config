@@ -1,0 +1,2 @@
+['remote "dvcremote"']
+    url = s3://pipelinedvc
